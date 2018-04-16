@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>![](/)</td>
-    <td>![account](https://github.com/dat18v2/30_classdiagram_to_code/blob/master/img/Screen%20Shot%202018-04-16%20at%2009.13.11.png)</td>
+    <td><img src="https://github.com/dat18v2/30_classdiagram_to_code/blob/master/img/Screen%20Shot%202018-04-16%20at%2009.13.11.png" /></td>
   </tr>
 </table>
 
