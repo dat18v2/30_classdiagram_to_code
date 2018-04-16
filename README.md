@@ -16,5 +16,9 @@
     * Hvis i ikke har et klasse diagram endnu, skal i lave det.
 2. I skal nu bytte klasse diagram, og herefter konstruere koden udfra dette klasse diagram
   
+  
+Inden vi slutter i dag ser vi på nogle af jeres løsninger ved tavlen.
 
 
+
+&copy; kea - clbo - 2018
